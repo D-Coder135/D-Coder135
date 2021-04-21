@@ -9,8 +9,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, HTML, CSS, Django Or Any Other Tech Related Query.
 ## Connect with me:
 
-   [<img align="left" alt="D-Coder135 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <img align="center"      alt="D-Coder135 | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][instagram][twitter] 
-   <br />
+   [<img align="left" alt="D-Coder135 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+   [<img align="left" alt="D-Coder135 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+   <br /> <br /> 
    
    [instagram]: https://instagram.com/devansh__omi 
    
