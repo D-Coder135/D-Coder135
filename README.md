@@ -7,18 +7,15 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Structures & Algorithms In Java.
 - 🤔 I’m looking for help with Kotlin.
 - 💬 Ask me about Java, HTML, CSS, Django Or Any Other Tech Related Query.
--- ## Connect with me:
+## Connect with me:
 
    [<img align="left" alt="D-Coder135 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-   <br />
-
-   [instagram]: https://instagram.com/devansh__omi
-
-   [<img align="center" alt="D-Coder135 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+   <br /> [<img align="center" alt="D-Coder135 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
    <br />
 
+   [instagram]: https://instagram.com/devansh__omi 
    [twitter]: https://twitter.com/D_Optimist135
 
 - 😄 Pronouns: He/Him
