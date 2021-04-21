@@ -7,19 +7,19 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Structures & Algorithms In Java.
 - 🤔 I’m looking for help with Kotlin.
 - 💬 Ask me about Java, HTML, CSS, Django Or Any Other Tech Related Query.
-- ## Connect with me:
+-- ## Connect with me:
 
-[<img align="left" alt="D-Coder135 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+   [<img align="left" alt="D-Coder135 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+   <br />
 
-[instagram]: https://instagram.com/devansh__omi
+   [instagram]: https://instagram.com/devansh__omi
 
-[<img align="left" alt="D-Coder135 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+   [<img align="center" alt="D-Coder135 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br />
+   <br />
 
-[twitter]: https://twitter.com/D_Optimist135
+   [twitter]: https://twitter.com/D_Optimist135
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend more than half of mah day time with my Girlfriend. Wait, don't get me wrong, I am talking about my lappy😂😅. Another One --> My Love For Linux OS❤️‍🔥 Made Me Completely Remove My "ORIGINAL VERSION OF WINDOWS 10" which I bought for 5k. Silly Me😅😋
