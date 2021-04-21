@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 ## Connect with me:
 
    [<img align="left" alt="D-Coder135 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-   <br /> 
-   [<img align="center" alt="D-Coder135 | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+   <br /> [<img align="center" alt="D-Coder135 | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
    <br />
    
    [instagram]: https://instagram.com/devansh__omi 
