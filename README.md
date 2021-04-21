@@ -19,8 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/d_optimist135" target="blank"><img align="center" src="https://https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="d_optimist135" height="30" width="40" /></a>
-<a href="https://instagram.com/devansh__omi" target="blank"><img align="center" src="https://https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="devansh__omi" height="30" width="40" /></a>
+<a href="https://twitter.com/d_optimist135" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="d_optimist135" height="30" width="40" /></a>
+<a href="https://fb.com/doptimist135" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="doptimist135" height="30" width="40" /></a>
+<a href="https://instagram.com/devansh__omi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="devansh__omi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
