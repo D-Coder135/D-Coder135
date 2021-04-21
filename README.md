@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend more than half of mah day time with my Girlfriend. Wait, don't get me wrong, I am talking about my lappy😂😅. Another One --> My Love For Linux OS❤️‍🔥 Made Me Completely Remove My "ORIGINAL VERSION OF WINDOWS 10" which I bought for 5k. Silly Me😅😋
 
+<img src="https://github-readme-stats.vercel.app/api?username=D-Coder135&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
