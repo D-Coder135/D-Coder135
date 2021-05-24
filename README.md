@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Django Framework.**
 
-- 🌱 I’m currently learning **Full Stack Web Dev & Flutter App Dev.**
+- 🌱 I’m currently learning **Android Dev & Flutter App Dev.**
 
 - 👯 I’m looking to collaborate on **Data Structures & Algorithms In Java.**
 
