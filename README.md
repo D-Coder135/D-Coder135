@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-coder135&label=Profile%20views&color=0e75b6&style=flat" alt="d-coder135" /> </p>
 
-- 🔭 I’m currently working on **Django Framework.**
+- 🔭 I’m currently working on **Flutter App Development.**
 
-- 🌱 I’m currently learning **Android Dev & Flutter App Dev.**
+- 🌱 I’m currently learning **Android Dev & Django Framework**
 
 - 👯 I’m looking to collaborate on **Data Structures & Algorithms In Java.**
 
