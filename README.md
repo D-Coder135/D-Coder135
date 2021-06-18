@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-coder135&label=Profile%20views&color=0e75b6&style=flat" alt="d-coder135" /> </p>
 
-- 🔭 I’m currently working on **Flutter App Development.**
+- 🔭 I’m currently working on **Kotlin.**
 
-- 🌱 I’m currently learning **Android Dev & Django Framework**
+- 🌱 I’m currently learning **Android Dev & Django Framework.**
 
-- 👯 I’m looking to collaborate on **Data Structures & Algorithms In Java.**
+- 👯 I’m looking to collaborate on **Flutter Application Development Using Dart.**
 
 - 🤝 I’m looking for help with **Kotlin.**
 
-- 💬 Ask me about **LINUX OS, Java, HTML, CSS, Django or Any Other Tech Related Query.**
+- 💬 Ask me about **Flutter, Java, HTML, CSS, Django, LINUX or Windows OS, or Any Other Tech Related Query.**
 
 - 📫 How to reach me **devansh1352000@gmail.com**
 
