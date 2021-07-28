@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **devansh1352000@gmail.com**
 
-- ⚡ Fun fact **I spend more than half of mah day time with my Girlfriend. Wait, don't get me wrong, I am talking about my lappy😂😅. Another One --> My Love For Linux OS❤️‍🔥 Made Me Completely Remove My "ORIGINAL VERSION OF WINDOWS 10" which I bought for 5k. Silly Me😅😋**
+- ⚡ Fun fact **I spend more than half of mah day time with my Girlfriend. Wait, don't get me wrong, I am talking about my lappy😂😅. Another One --> My Love For Linux OS❤️🔥 Made Me Completely Remove My "ORIGINAL VERSION OF WINDOWS 10" which I bought for 5k. Silly Me😅😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
