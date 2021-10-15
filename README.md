@@ -1,4 +1,4 @@
-<p> <img align="center" width="540px" src="https://i.ibb.co/L5xD3CW/st-small-845x845-pad-1000x1000-f8f8f8.jpg" alt="d-coder135" /></p>
+<p> <img align="center" width="540px" src="https://ih1.redbubble.net/image.901495600.6055/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="d-coder135" /></p>
 <h1 align="center">Hi There👋, I'm Devansh Shukla - aka [D-Coder135] 👋</h1>
 <h3 align="center">A Student Busy In Improving His Skills.</h3>
 
