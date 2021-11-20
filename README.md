@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-coder135&label=Profile%20views&color=0e75b6&style=flat" alt="d-coder135" /> </p>
 
-- 🔭 I’m currently working on **Kotlin.**
+- 🔭 I’m currently working on **CP & Data Structures.**
 
 - 🌱 I’m currently learning **Android Dev & Django Framework.**
 
