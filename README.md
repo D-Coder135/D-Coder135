@@ -6,17 +6,17 @@
 
 - 🔭 I’m currently working on **CP & Data Structures.**
 
-- 🌱 I’m currently learning **Android Dev & Django Framework.**
+- 🌱 I’m currently learning **FullStack.**
 
 - 👯 I’m looking to collaborate on **Flutter Application Development Using Dart.**
 
 - 🤝 I’m looking for help with **Kotlin.**
 
-- 💬 Ask me about **Flutter, Java, HTML, CSS, Django, LINUX or Windows OS, or Any Other Tech Related Query.**
+- 💬 Ask me about **Java, Flutter, Dart, HTML, CSS, JavaScript, ReactJS, React-Native, LINUX or Windows OS, or Any Other Tech Related Query.**
 
 - 📫 How to reach me **devansh1352000@gmail.com**
 
-- ⚡ Fun fact **I spend more than half of mah day time with my Girlfriend. Wait, don't get me wrong, I am talking about my lappy😂😅. Another One --> My Love For Linux OS❤️🔥 Made Me Completely Remove My "ORIGINAL VERSION OF WINDOWS 10" which I bought for 5k. Silly Me😅😋**
+- ⚡ Fun fact **My Love For Linux OS❤️🔥 Made Me Completely Remove My "ORIGINAL VERSION OF WINDOWS 10" which I bought for 5k. Silly Me😅😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
