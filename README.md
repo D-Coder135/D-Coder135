@@ -1,4 +1,4 @@
-<p> <img align="center" width="500px" src="https://i.ibb.co/wJ01JYk/image.jpg" alt="d-coder135" /></p>
+<!-- <p> <img align="center" width="500px" src="https://i.ibb.co/wJ01JYk/image.jpg" alt="d-coder135" /></p> -->
 <h1 align="center">Hi There👋, I'm Devansh K Shukla - aka [D-Coder135] 👋</h1>
 <h3 align="center">Enthusiastic Programmer💻 || Cross-Platform Dev🔴 || Tech & Lang Freak🤓 .</h3>
 
