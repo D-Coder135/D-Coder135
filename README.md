@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-coder135&label=Profile%20views&color=0e75b6&style=flat" alt="d-coder135" /> </p>
 
-- 🔭 I’m currently working on **CP & Data Structures.**
+- 🔭 I’m currently working on **Java MVC, Apache MyBatis & Servlets.**
 
-- 🌱 I’m currently learning **FullStack.**
+- 🌱 I’m currently learning **Cloud Fundamentals.**
 
 - 👯 I’m looking to collaborate on **Flutter Application Development Using Dart.**
 
