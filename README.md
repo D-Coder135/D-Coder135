@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-coder135&label=Profile%20views&color=0e75b6&style=flat" alt="d-coder135" /> </p>
 
-- 🔭 I’m currently working on **Angular Framework and Integrating it with REST API.**
+- 🔭 I’m currently working on **Spring Framework and REST API Development using Spring Boot.**
 
-- 🌱 I’m currently learning **Creating REST API Using ASP.NET.**
+- 🌱 I’m currently learning **RESTful application development using Spring Boot.**
 
 - 👯 I’m looking to collaborate on **Cloud(Microsoft Azure) OR Cross Platform Dev**
 
